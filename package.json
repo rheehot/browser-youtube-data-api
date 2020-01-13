@@ -1,6 +1,6 @@
 {
   "name": "browser-youtube-data-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Comfortable use of Youtube Data API for Browser",
   "main": "index.js",
   "repository": "https://github.com/baeharam/browser-youtube-data-api.git",
