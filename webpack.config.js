@@ -22,10 +22,7 @@ module.exports = {
         exclude: [
           path.join(__dirname, 'node_modules')
         ],
-        loader: 'babel-loader',
-        options: {
-          presets: ['@babel/preset-env'],
-        },
+        loader: 'babel-loader'
       },
     ]
   },
